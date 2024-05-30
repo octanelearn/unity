@@ -1,0 +1,5 @@
+D:/bianchengyijiaqin/unitydongxi/My project/.utmp/Debug/1d52f632/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/bianchengyijiaqin/unitydongxi/My project/.utmp/Debug/1d52f632/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/bianchengyijiaqin/unitydongxi/My project/.utmp/Debug/1d52f632/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/bianchengyijiaqin/unitydongxi/My project/.utmp/Debug/1d52f632/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/bianchengyijiaqin/unitydongxi/My project/.utmp/Debug/1d52f632/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
